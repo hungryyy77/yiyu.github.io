@@ -80,14 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Yi Yu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : |
+    Ph.D candidate <br>
+    Transportation Engineering <br>
+    Zhejiang University <br>
+    <br>
+    818 Yuhangtang Rd. <br>
+    Xihu district, Hangzhou<br>
+    Zhejiang, China <br>
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "eveyu[at]zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +103,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hungryyy77"
   google_plus      :
   keybase          :
   instagram        :
