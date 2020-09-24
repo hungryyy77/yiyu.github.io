@@ -26,4 +26,4 @@ Research Interests
 
 Selected Publications
 ======
-* YU, Y., 2020 [Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover](https://10.1109/ACCESS.2020.2970530) VOLUME 8, 2020.
+* Y. Yu, M. Chen, H. Qi and D. Wang, [Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover](https://ieeexplore.ieee.org/abstract/document/8976161/) in IEEE Access, vol. 8, pp. 32850-32861, 2020.
