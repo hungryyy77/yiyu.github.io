@@ -11,9 +11,9 @@ title                    : "YI YU - Homepage"
 title_separator          : "-"
 name                     : &name "YI YU"
 description              : &description "Ph.D. candidate"
-url                      : https://hungryyy77.github.io/yiyu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eveyuyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hungryyy77/yiyu.github.io"
+repository               : "eveyuyi/eveyuyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hungryyy77"
+  github           : "eveyuyi"
   google_plus      :
   keybase          :
   instagram        :
