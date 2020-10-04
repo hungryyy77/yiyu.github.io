@@ -8,13 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in the Department of Civil Engineering and architecture at [Zhejiang University](https://www.zju.edu.cn). I received my bechelor degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn). 
+I am a Ph.D candidate in the Department of Civil Engineering and architecture at [Zhejiang University](https://www.zju.edu.cn) since 2017, major in Highway and transportation engineering. I received my bechelor degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn) in 2017, meanwhile minor in law. 
 
-My current research centers on the area of urban computing, traffic state identification and traffic theroy. Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  
-
-
+My current research interests are urban traffic state identification and traffic flow modeling. I have published several articles related to my research interests. Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  Awaiting fro further information...  
 
 
+Education
+=====
+
+| :-----| :----- | :----- |
+| Ph.D | 2017 - (2022)  | 单元格 |
+| B.S. | 2017 - (2022)  | 单元格 |
+| B.S. | 2013 - 2017  | 单元格 |
+| B.S. | 2017 - (2022)  | 单元格 |
+| B.S. | 2017 - (2022)  | 单元格 |
+
+Ph.D., 2017 - (2022), Department of Civil Engineering, Zhejiang University, Beijing, China
+   Dissertation: Stochastic Evolutions of Dynamic Traffic Flow: Modelling and Application
+   2013 IEEE Intelligent Transportation Systems Society (ITSS) Best Dissertation Award
+   Advisor, Qixin Shi, Professor of Institute of Transportation Engineering, Tsinghua University
+   Co-Advisor, Li Li, Associated Professor of Department of Automation, Tsinghua University
+Joint Training Ph.D. Student, 09/2011 - 08/2012, University of Cailifornia at Berkeley
+   Host Advisor, Wei-Bin Zhang, Research Engineer of California PATH, Institute of Transportation Studies, University of Cailifornia at Berkeley
+B.S., 08/2004 - 07/2008, Department of Civil Engineering, Tsinghua University, Beijing, China
 
 
 Research Interests
