@@ -9,10 +9,10 @@ main:
   - title: "Internships"
     url: /teaching/    
     
-  - title: "Student Works"
-    url: /student-works/
+  - title: "Activities"
+    url: /activities/
         
-  - title: "Interests"
+  - title: "Interests & Skills"
     url: /year-archive/
    
   - title: "Honors"
