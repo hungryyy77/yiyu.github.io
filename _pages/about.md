@@ -28,8 +28,8 @@ Education
 
 Research Interests
 ======
-* Traffic state identification
-* Traffic flow modeling  
+* Traffic State Estimation
+* Traffic Flow Modeling  
 * Traffic flow theory  
 
 
