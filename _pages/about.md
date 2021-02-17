@@ -18,7 +18,7 @@ Education
 =====
 
 | :-----| :----- | :----- |
-| 2020.12-(2022.06) | Joint Training Ph.D | Imperial College London | Transportation Engineering | GPA 92.2/100 Rank 3/53|
+| 2020.12-(2022.06) | Joint Ph.D | Imperial College London | Transportation Engineering | Joint training Ph.D. supported by [CSC](https://www.csc.edu.cn)|
 | 2017.09-(2022.06) | Ph.D | Zhejiang University | Transportation Engineering | GPA 92.2/100 Rank 3/53|
 | 2013.09-2017.06 | B.S. | Zhejiang University | Civil Engineering | GPA 3.72/4.0 Recommand|
 | 2013.09-2017.06  | Minor | Zhejiang University | Law | GPA 3.78/4.0 Graduates|
