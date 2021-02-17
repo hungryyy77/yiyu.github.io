@@ -31,11 +31,23 @@ Journal Publications
 Patents
 ======
 
-* Yu Y, Cui Y, Wang D, Cai Z (2019) Identifying urban traffic state using Automatic number plate recognition data. Applying Number:201911007187.7
+* Yu Y, Cui Y, Wang D, Cai Z (2019) Identifying urban traffic state using Automatic number plate recognition data. Applying number: 201911007187.7
+<!-- 基于过车数据的城市路网交通运行态势评价方法 201911007187.7-->
 
-* 
+* Yu Y, Cai M (2020) Identifying Method, device, equipment and medium for discovering user group in service application. Applying number: 202011166175.9 
+<!-- 发现服务应用中的用户群的方法、装置、设备和介质202011166175.9 -->
 
+* Yu Y, Dai G, Fang H, Cai M (2020) Method, device, equipment and medium for identifying problem users. Applying number: 202011166170.9
+<!-- 用于确定问题用户的方法、装置、设备和介质  202011166170.9 -->
 
+* Yu Y, Cheng Y, Cai M (2020) Method, device, electronic equipment and storage medium for detecting cheating behavior. Applying number: 202010962524.4
+<!-- 检测作弊行为的方法、装置、电子设备和存储介质 202010962524.4 -->
+
+* Yu Y, Cai M, Gu Z (2020) Method, device, server and computer storage medium for order processing. Applying number: 202011066339.3
+<!-- 订单处理方法、装置、服务器及计算机存储介质 202011066339.3 -->
+
+* Wang X, Yu Y (2020) An insulin pen needle recovery device.
+<!-- 一种胰岛素笔针头回收装置 -->
 
 
 Software
