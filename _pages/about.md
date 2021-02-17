@@ -31,7 +31,7 @@ Research Interests
 ======
 * Traffic State Estimation
 * Traffic Flow Modeling  
-* Traffic flow theory  
+* Traffic Network Topology  
 
 
 Selected Publications
