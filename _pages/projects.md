@@ -23,7 +23,7 @@ Projects I attended during my bechelor and doctoral periods @ Zhejiang Universit
 
 ### Abroad Projects
 | Period | Title | University | Sponsor | Role |
-| :-----| :----- | :----- | :----- | :----- |
+| :-----| :----- | :----- |
 | 2020.12- | Joint Traning PhD Program | Imperial College London | [Chinese Scholorship council](https://www.csc.edu.cn) | Academic Seminoar & Presentation|
 | 2019.08 | Go Global | University of Tokyo, Waseda University | Zhejiang University | Academic Seminoar & Presentation|
 | 2018.08  | Go Global | University of Toronto, University of Ottawa, Western University, Queens Unversity | Transportation Engineering | Zhejiang University | Academic Seminoar & Presentation|
@@ -33,7 +33,7 @@ Projects I attended during my bechelor and doctoral periods @ Zhejiang Universit
 
 ### Research Projects
 | Period | Title | Sponsor | Role |
-| :----- | :----- | :----- | :----- |
+| :----- | :----- |
 | 2016-2017 | Isolated Intersection Control Research Based on Array Radar <!-- 基于阵列雷达的单点信号控制研究 -->| (NacTrans)[http://www.nactrans.com.cn] <!-- 全国大学生交通科技大赛 --> | Main member |
 | 2016-2017 | Analysing mechanism of piezoelectric energy in high-Speed Wind | Alibaba-Geek program | Main member |
 | 2016-2017 | Mechanism of piezoelectric energy in high-Speed Wind | 'Challenge Cup' College Student Entrepreneur Competition | Main member |
