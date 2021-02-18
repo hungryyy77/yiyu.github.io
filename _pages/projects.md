@@ -46,6 +46,7 @@ Projects I attended during my bechelor and doctoral periods @ Zhejiang Universit
 
 
 ### Abroad Projects
+
 | Period | University | Sponsor | Role |
 | 2014.02-2014.03 | York University | Transportation Engineering | / | Academic & Culture Lectures |
 
