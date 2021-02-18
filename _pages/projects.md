@@ -35,15 +35,17 @@ Projects I attended during my bechelor and doctoral periods @ Zhejiang Universit
 | Period | Title | Sponsor | Role |
 | :----- | :----- | :----- | :----- |
 | 2016-2017 | Isolated Intersection Control Research Based on Array Radar <!-- 基于阵列雷达的单点信号控制研究 -->| (NacTrans)[http://www.nactrans.com.cn] <!-- 全国大学生交通科技大赛 --> | Main member |
-| 2016-2017 | Analysing mechanism of piezoelectric energy in high-Speed Wind | Alibaba-Geek
-
-Student Research Program in Zhejiang Province 'Mechanism of Piezoelectric Energy in High-Speed Wind' Main Member Student Quality Training Project 'A Survey and Research of Ancient Building Protection' in Zhejiang University
-
-
+| 2016-2017 | Analysing mechanism of piezoelectric energy in high-Speed Wind | Alibaba-Geek program | Main member |
+| 2016-2017 | Mechanism of piezoelectric energy in high-Speed Wind | 'Challenge Cup' College Student Entrepreneur Competition | Main member |
+| 2016-2017 | Mechanism of piezoelectric energy in high-Speed Wind | Student Research Program in Zhejiang Province | Main member |
+| 2015-2016 | Research on piezoelectric power generation structure of cantilever beam in high-speed railway tunnel <!-- 高速铁路隧道内悬臂梁压电发电结构研究 --> | Student Research Program in Zhejiang Province | Main member |
+| 2014-2015 | A survey and research of ancient building protection <!-- 古建筑保护的考察及研究 --> | Student Quality Training Project <!-- 浙江大学学生素质训练 --> | Main member |
+| 2014-2015 | Financial planning ability training for college students <!-- 大学生个人理财规划能力训练营 --> | Student Quality Training Project <!-- 浙江大学学生素质训练 --> | Main member |
 
 
 ### Abroad Projects
-
+| Period | University | Sponsor | Role |
+| 2014.02-2014.03 | York University | Transportation Engineering | / | Academic & Culture Lectures |
 
 
 
