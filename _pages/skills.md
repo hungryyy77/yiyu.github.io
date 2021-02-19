@@ -15,7 +15,7 @@ author_profile: true
 ### Coding skills
 
 * Course Certification in COURSERA
-	* [Introduction to Artificial Intelligence (AI)](https://github.com/eveyuyi/eveyuyi.github.io/blob/master/files/ARCHIEVE_Coursera%20Certification%20-%20AI_2020.pdf)
+	* [Introduction to Artificial Intelligence (AI)](https://eveyuyi.github.io/files/ARCHIEVE_Coursera_Certification_AI_2020.pdf)
 
 * National computer rank examination
 	* Certification of Level 1 

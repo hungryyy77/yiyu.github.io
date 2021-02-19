@@ -27,7 +27,7 @@ Journal Publications
 
 * Cui Y, Yu Y, Wang D （2021） Analysis of Link Length’s Impact on the Delay of Two-way Signal Coordination。 IEEE Access, under review.
 
-* Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://doi.org/10.1109/ACCESS.2020.2970530))
+* Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
 
 
 Patents
