@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Awaiting for further information... 
 
-* [CV in PDF]((https://eveyuyi.github.io/files/CV_eveyu.pdf))
+* [CV in PDF](https://eveyuyi.github.io/files/CV_eveyu.pdf)
+
+<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
+
+Awaiting for further information... 
 
 <!-- 
 Education
