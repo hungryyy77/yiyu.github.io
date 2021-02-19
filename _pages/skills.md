@@ -12,3 +12,10 @@ author_profile: true
 * CET-6 501
 * CET-4 575
 
+### Coding skills
+
+* Course Certification in COURSERA
+	* [Introduction to Artificial Intelligence (AI)](https://github.com/eveyuyi/eveyuyi.github.io/blob/master/files/ARCHIEVE_Coursera%20Certification%20-%20AI_2020.pdf)
+
+
+
