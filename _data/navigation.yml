@@ -10,10 +10,10 @@ main:
     url: /activities/    
     
   - title: "Interests & Skills"
-    url: /year-archive/
+    url: /skills/
    
   - title: "Honors"
-    url: /markdown/
+    url: /honors/
  
   - title: "CV"
     url: /cv/
