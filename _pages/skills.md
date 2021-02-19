@@ -21,3 +21,22 @@ author_profile: true
 	* Certification of Level 1 
 	* Certification of Level 2 
 
+* Python, SQL, Matlab
+
+### Softwares
+* TransCAD, VISSIM
+* CAD, Revit, Sketch Up
+* Photoshop
+
+
+
+### Other skills
+* Occupational Qualification Certificate
+	* Forth levef Human Resource Manager
+
+### Interests
+* Badminton, rock climbing
+ 
+
+
+
