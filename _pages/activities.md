@@ -70,7 +70,9 @@ parties, serving as the first online integrated propaganda channel and loved by 
 ### Internships
 
 * 2020.06-2020.10, Data analysis intern (in charge of algorithms), Security and Technology Department in Didi Chuxing Technology Co.
-<!-- 2020.5.12-10.22	滴滴安全产品技术部 数据分析实习生（算法） -->
+	* Based on big data, mine cheating scenarios, build core anti-cheating algorithms, analyse business security, and produce 4 national invention patents.
+<!-- 2020.5.12-10.22	滴滴安全产品技术部 数据分析实习生（算法） 基于数据驱动挖掘作弊场景，构建核心反作弊算法，分析业务安全性，产出4篇国家发明专利-->
+
 * 2016.07 - 2016.08, Engineering intern, Engineering Department in Chongqing Third Construction Co., Ltd
 	* Study and research from the construction site and do the safety inspection.
 <!-- 2016.07 - 2016.08 重庆市西南证券股份有限公司总部大楼 工程部实习生

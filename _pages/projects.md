@@ -25,12 +25,12 @@ Projects I attended during my bachelor and doctoral periods @ Zhejiang Universit
 
 | Period | Title | University | Sponsor | Role |
 | :-----| :----- | :----- |
-| 2020.12- | Joint Traning PhD Program | Imperial College London | [Chinese Scholorship council](https://www.csc.edu.cn) | Academic Seminoar & Presentation|
+| 2020.12- | Joint Traning PhD Program | Imperial College London | [Chinese Government Scholorship council](https://www.csc.edu.cn) | Academic Seminoar & Presentation|
 | 2019.08 | Go Global | University of Tokyo, Waseda University | Zhejiang University | Academic Seminoar & Presentation|
 | 2018.08  | Go Global | University of Toronto, University of Ottawa, Western University, Queens Unversity | Zhejiang University | Academic Seminoar & Presentation|
 
 
-## Bechelor Periods
+## Bachelor Periods
 
 ### Research Projects
 
