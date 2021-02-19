@@ -17,5 +17,7 @@ author_profile: true
 * Course Certification in COURSERA
 	* [Introduction to Artificial Intelligence (AI)](https://github.com/eveyuyi/eveyuyi.github.io/blob/master/files/ARCHIEVE_Coursera%20Certification%20-%20AI_2020.pdf)
 
-
+* National computer rank examination
+	* Certification of Level 1 
+	* Certification of Level 2 
 
