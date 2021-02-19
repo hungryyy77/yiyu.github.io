@@ -1,4 +1,18 @@
 ---
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
+
+* [CV in PDF](https://eveyuyi.github.io/files/CV_eveyu.pdf)
+
+
+<!-- 
+Awaiting for further information... 
+
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,14 +22,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
-
-* [CV in PDF](https://eveyuyi.github.io/files/CV_eveyu.pdf)
-
-
-<!-- 
-Awaiting for further information... 
 
 
 Education
