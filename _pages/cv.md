@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
 
 * [CV in PDF](https://eveyuyi.github.io/files/CV_eveyu.pdf)
 
-<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
-
-Awaiting for further information... 
 
 <!-- 
+Awaiting for further information... 
+
+
 Education
 ======
 * B.S. in Civil Eningeering, Zhejiang University, 2017

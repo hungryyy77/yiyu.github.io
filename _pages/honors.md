@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Doctoral Periods
-* Scholarship to sponsor upcoming study abroad from the Chinese Government Scholarship Council.
+* Scholarship to sponsor upcoming study abroad from the Chinese Government Scholarship Council (2020)
 * Excellent (Postgraduate) Student Award of Zhejiang University (2019-2020)
 * 2nd prize mixed team in Zhejiang University's Badminton Competition (2019)
 * Outstanding (Postgraduate) Student Leader Award of Zhejiang University (2017-2018)
