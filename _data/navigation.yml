@@ -6,12 +6,9 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Internships"
-    url: /teaching/    
-    
   - title: "Activities"
-    url: /activities/
-        
+    url: /activities/    
+    
   - title: "Interests & Skills"
     url: /year-archive/
    
