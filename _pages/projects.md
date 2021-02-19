@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Projects I attended during my bechelor and doctoral periods @ Zhejiang University.
+Projects I attended during my bachelor and doctoral periods @ Zhejiang University.
 
 ## Doctoral Periods
 

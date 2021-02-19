@@ -30,7 +30,6 @@ Journal Publications
 * Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://doi.org/10.1109/ACCESS.2020.2970530))
 
 
-
 Patents
 ======
 
