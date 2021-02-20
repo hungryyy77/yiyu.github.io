@@ -48,11 +48,11 @@ Patents
 * Yu Y, Cai M, Gu Z (2020) Method, device, server, and computer storage medium for order processing. Applying number: 202011066339.3
 <!-- 订单处理方法、装置、服务器及计算机存储介质 202011066339.3 -->
 
-* He C, Wang D, Cai Z, Zeng J, Yu Y, Jing S (2021) License plate matching method based on maximum travel time probability.
-<!-- 基于行程时间概率最大的车牌匹配方法 -->
-
 * Wang X, Yu Y (2020) An insulin pen needle recovery device.
 <!-- 一种胰岛素笔针头回收装置 -->
+
+* He C, Wang D, Cai Z, Zeng J, Yu Y, Jing S (2021) License plate matching method based on maximum travel time probability.
+<!-- 基于行程时间概率最大的车牌匹配方法 -->
 
 
 Software
