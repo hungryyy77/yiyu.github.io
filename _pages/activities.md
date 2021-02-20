@@ -57,7 +57,7 @@ parties, serving as the first online integrated propaganda channel and loved by 
 	* Introduce the knowledge and history of museum exhibits to the public to enhance the public's love for nature and life and improve environmental protection concepts.
 <!-- 浙江自然博物馆义务讲解志愿活动 向公众介绍博物馆展品的知识，历史等。活动旨在给有知识、有思想、有热情的大学生提供机会，提升社会对自然、对环境的认识水平，增强公众对自然、生命的热爱，促进环保理念的传播、生态文明的建设。2015.10-2016.1 -->
 
-* 2014.09-2015.06, Student assistant in the Zhejaing University library 
+* 2014.09-2015.06, Student assistant in the Zhejiang University library 
 	* Assist with organizing books and keep the study room clean and orderly.
 <!-- 浙大图书馆学生助理  帮助老师整理书籍，维持自习室整洁和秩序 -->
 

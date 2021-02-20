@@ -32,7 +32,7 @@ author_profile: true
 
 ### Other skills
 * Occupational Qualification Certificate
-	* Forth levef Human Resource Manager
+	* Forth level Human Resource Manager
 
 ### Interests
 * Badminton, rock climbing
