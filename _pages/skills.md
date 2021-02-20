@@ -14,7 +14,7 @@ author_profile: true
 
 ### Coding skills
 
-* Course Certification in COURSERA
+* Certification in COURSERA
 	* [Introduction to Artificial Intelligence (AI)](https://eveyuyi.github.io/files/ARCHIEVE_Coursera_Certification_AI_2020.pdf)
 
 * National computer rank examination
@@ -32,10 +32,10 @@ author_profile: true
 
 ### Other skills
 * Occupational Qualification Certificate
-	* Forth level Human Resource Manager
+	* 4th Level Human Resource Manager
 
 ### Interests
-* Badminton, rock climbing
+* Badminton, Rock climbing
  
 
 

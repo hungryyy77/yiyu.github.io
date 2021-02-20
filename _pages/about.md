@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a PhD candidate in the Department of Civil Engineering and Architecture at [Zhejiang University](https://www.zju.edu.cn) and joint training PhD student at [Imperial College London](https://www.imperial.ac.uk), major in transportation engineering. I received my bachelor's degree in Civil Engineering and a minor in law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited several universities, including Zhejiang University, Imperial College London, University of Tokyo, Waseda University, University of Toronto, University of Ottawa, Western University, Queens Unversity, York University. My research interests are urban network traffic state identification and traffic flow modeling. I have published several articles and participated in a couple of national and municipal research projects related to my research interests.
 
-As a curious and passionate learner, apart from my research field, I cover knowledge of various areas, such as law, computer science, economics, social science, etc. During my spare time, I actively involved in student activities and volunteering. I hope the world could become slightly better owning to my contribution. I'm also a tool fan, devoted to increasing productivity using Python, SQL, ArcGIS, Notion, Matlab, Photoshop, CAD...
+As a curious and passionate learner, I also cover knowledge of various areas, such as law, computer science, economics, social science, etc. During my spare time, I actively involved in student activities and volunteerings. I hope the world could become slightly better owning to my contribution. I'm also a geek, fascinated productivity tools like Python, SQL, ArcGIS, Notion, Matlab, Photoshop, CAD...
 
 
 

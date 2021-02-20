@@ -8,14 +8,16 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 
 ### Student activities
 
-* 2020.01-2021.01, Head of the Doctoral advisory group
-	* Assist the Science and Technology Innovation Center to carry out the 2020 undergraduate SRTP project
-	Assist and guide the undergraduates to participate in research training projects, serve as research training defense judges, and conduct daily team operations and group building.
+* 2020.01-2021.01, Head of the doctoral advisory group
+	* Assist and guide the undergraduates to participate in research training projects
+	* Serve as research training defense judges
+	* Conduct daily team operations and group building.
 	<!-- 协助和指导建工学院本科生参与科研训练项目，组织团员担任科研训练答辩评委，进行团队日常运营与团建。 -->
 
 * 2017.09-2018.10, Chairman of the College Youth Media Center
+	* Found the College Youth Media Center, which serves as the first online integrated propaganda channel and loved by the students in our college.
 	* Operate WeChat Official Account-CCEA youth, interview excellent alumnus, report new year and graduation
-parties, serving as the first online integrated propaganda channel and loved by the students in our college.
+parties. 
 <!-- 创立浙江大学建工青年媒体中心，组织运营“浙大建工青年”微信公众号，打造学院有史以来第一个 学生通道整合宣传途径，获学校官方认可，并多次在各院系公众号榜单中排名前列;
 • 采访杰出院友，跟踪报道学院新年晚会、毕业晚会等，阅读量持续破千，深受学生喜爱和关注 -->
 
@@ -25,12 +27,13 @@ parties, serving as the first online integrated propaganda channel and loved by 
 <!-- 建工学院兼职辅导员 负责学院宣传工作 -->
 
 * 2017.09-2020.06, Psychological Monitor of the class
-	* In charge of caring about the mental health of classmates. 
+	* Take care about the mental health of classmates. 
 	* Help with the communication between students and the department. 
 <!-- 关心班级同学的心理健康状态。负责同学和学院之间的事务性沟通 -->
 
 * 2016.09-2017.09, Founder & Core Member in the ZJU BIM Club 
-• As one of the establishing members, bring about club foundation and facilitated the cooperation with Greentown China, benefiting hundreds of students for awards and extension for undergraduate courses.
+	* As one of the establishing members, participate in the club foundation and facilitate the cooperation with Greentown China
+	* Organize BIM lectures, benefiting hundreds of students for awards and extension for undergraduate courses.
 <!-- 浙江大学 BIM 俱乐部 初创 & 核心成员 自主创新
 • 作为初创成员之一，促成俱乐部成立、章程落地，与绿城中国洽谈项目合作，成立校企合作平台; 
 • 组织 BIM 纵览活动，吸引百余名在校生学习技术、数份成果转化参赛、获一等奖或用于本科教学等 -->
@@ -39,7 +42,7 @@ parties, serving as the first online integrated propaganda channel and loved by 
 2015.09-2017.07, 土木1303班  班级组织委员 -->
 * 2013.09-2014.09, Member of Zhejaing University Student Union 
 	* Organize academic lectures and new year's parties for students.
-	* Provide supports in study for students in need.
+	* Provide study supports for students in need.
 <!-- 2013.09-2014.09	浙大蓝田学院工学学生会学术部  干事 -->
 
 
@@ -50,8 +53,7 @@ parties, serving as the first online integrated propaganda channel and loved by 
 
 
 
-
-### Volunteering
+### Volunteerings
 
 * 2015.10-2016.01, Voluntary guide at Zhejiang Natural Museum
 	* Introduce the knowledge and history of museum exhibits to the public to enhance the public's love for nature and life and improve environmental protection concepts.
@@ -62,16 +64,19 @@ parties, serving as the first online integrated propaganda channel and loved by 
 <!-- 浙大图书馆学生助理  帮助老师整理书籍，维持自习室整洁和秩序 -->
 
 * 2014.07-2014.08, Rural Education Program in Meilin Town, Ningguo City
-	* In charge of Physics and Math courses, and solve their learning and living difficulties with full enthusiasm
+	* In charge of Physics and Math courses, and solve students' learning and living difficulties with full enthusiasm
 <!-- 2014.07 - 2014.08 浙江大学学生三农协会赴宁国市梅林镇支教项目 支教团主要成员 • 负责物理、数学教学与日常纪律管理，解决学生学业与生活困难，用自己的公益热心帮助同学 -->
 
 
 
 ### Internships
 
-* 2020.06-2020.10, Data analysis intern (in charge of algorithms), Security and Technology Department in Didi Chuxing Technology Co.
-	* Based on big data, mine cheating scenarios, build core anti-cheating algorithms, analyse business security, and produce 4 national invention patents.
-<!-- 2020.5.12-10.22	滴滴安全产品技术部 数据分析实习生（算法） 基于数据驱动挖掘作弊场景，构建核心反作弊算法，分析业务安全性，产出4篇国家发明专利-->
+* 2020.06-2020.10, Algorithms and Data analysis intern, Security and Technology Department in Didi Chuxing Technology Co.
+	* Mine new cheating scenarios based on big data. 
+	* Build core anti-cheating algorithms to reduce marketing costs and asset losses.
+	* Analyse business security and give out suggestions for cost control.
+	* Output 4 national invention patents as 1st writer.
+<!-- 2020.5.12-10.22	滴滴安全产品技术部 数据分析实习生（算法） 基于数据驱动挖掘作弊场景，构建核心反作弊算法来降低营销成本、减少资产损失，分析业务安全性，提出控制成本的建议，产出4篇国家发明专利-->
 
 * 2016.07 - 2016.08, Engineering intern, Engineering Department in Chongqing Third Construction Co., Ltd
 	* Study and research from the construction site and do the safety inspection.
