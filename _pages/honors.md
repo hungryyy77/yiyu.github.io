@@ -11,7 +11,7 @@ author_profile: true
 * Outstanding (Postgraduate) Student Leader Award of Zhejiang University (2017-2018)
 * Excellent (Postgraduate) Student Award of Zhejiang University (2017-2018)
 * Third-Class Scholarship of Zhejiang University Education Foundation "Wason Scholarship" (2017-2018)
-* 3rd prize in Zhejiang University "Dandelion " Innovationand Entrepreneurship Competition (2017)
+* 3rd prize in Zhejiang University "Dandelion " Innovation and Entrepreneurship Competition (2017)
 
 
 
