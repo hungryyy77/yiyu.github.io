@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Civil Engineering and Architecture at [Zhejiang University](https://www.zju.edu.cn) and joint training PhD student at [Imperial College London](https://www.imperial.ac.uk), major in transportation engineering. I received my bachelor's degree in Civil Engineering and a minor in law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited several universities, including Zhejiang University, Imperial College London, University of Tokyo, Waseda University, University of Toronto, University of Ottawa, Western University, Queens Unversity, York University. My research interests are urban network traffic state identification and traffic flow modeling. I have published several articles and participated in a couple of national and municipal research projects related to my research interests.
+I am currently a PhD candidate in the Department of Civil Engineering and Architecture at [Zhejiang University](https://www.zju.edu.cn) and joint training PhD student at [Imperial College London](https://www.imperial.ac.uk), major in transportation engineering. I received my bachelor's degree in Civil Engineering and a minor in law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited several universities, including Zhejiang University, Imperial College London, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). My research interests are urban network traffic state identification and traffic flow modeling. I have published several articles and participated in a couple of national and municipal research projects related to my research interests.
 
 As a curious and passionate learner, I also cover knowledge of various areas, such as law, computer science, economics, social science, etc. During my spare time, I actively involved in student activities and volunteerings. I hope the world could become slightly better owning to my contribution. I'm also a geek, fascinated productivity tools like Python, SQL, ArcGIS, Notion, Matlab, Photoshop, CAD...
 
@@ -22,9 +22,9 @@ Education
 | 2017.09- | PhD | Zhejiang University | Transportation Engineering | GPA 92.2/100 Rank 3/53|
 | 2013.09-2017.06 | B.S. | Zhejiang University | Civil Engineering | GPA 3.72/4.0 <br> Postgraduate recommendation|
 | 2013.09-2017.06  | Minor | Zhejiang University | Law | GPA 3.78/4.0 Graduates|
-| 2019.08 | Exchange | University of Tokyo, <br> Waseda University | Transportation Engineering | Academic Seminar & Presentations |
-| 2018.08  | Exchange | University of Toronto, <br> University of Ottawa | Transportation Engineering | Academic Seminar & Presentations |
-| 2014.01-2014.02  | Exchange | York University | Civil Engineering | Academic & Culture Lectures |
+| 2019.08 | Exchange | [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), <br> [Waseda University](https://www.waseda.jp/top/) | Transportation Engineering | Academic Seminar & Presentations |
+| 2018.08  | Exchange | [University of Toronto](https://www.utoronto.ca), <br> [University of Ottawa](https://www.uottawa.ca/en) | Transportation Engineering | Academic Seminar & Presentations |
+| 2014.01-2014.02  | Exchange | [York University](https://www.york.ac.uk) | Civil Engineering | Academic & Culture Lectures |
 
 
 Research Interests
