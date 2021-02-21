@@ -18,10 +18,10 @@ Education
 =====
 
 | :-----| :----- | :----- |
-| 2020.12- | Joint PhD | Imperial College London | Transportation Engineering | Joint training PhD student <br> supported by [CSC](https://www.csc.edu.cn) |
-| 2017.09- | PhD | Zhejiang University | Transportation Engineering | GPA 92.2/100 Rank 3/53|
-| 2013.09-2017.06 | B.S. | Zhejiang University | Civil Engineering | GPA 3.72/4.0 <br> Postgraduate recommendation|
-| 2013.09-2017.06  | Minor | Zhejiang University | Law | GPA 3.78/4.0 Graduates|
+| 2020.12- | Joint PhD | [Imperial College London](https://www.imperial.ac.uk) | Transportation Engineering | Joint training PhD student <br> supported by [CSC](https://www.csc.edu.cn) |
+| 2017.09- | PhD | [Zhejiang University](https://www.zju.edu.cn) | Transportation Engineering | GPA 92.2/100 Rank 3/53|
+| 2013.09-2017.06 | B.S. | [Zhejiang University](https://www.zju.edu.cn) | Civil Engineering | GPA 3.72/4.0 <br> Postgraduate recommendation|
+| 2013.09-2017.06  | Minor | [Zhejiang University](https://www.zju.edu.cn) | Law | GPA 3.78/4.0 Graduates|
 | 2019.08 | Exchange | [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), <br> [Waseda University](https://www.waseda.jp/top/) | Transportation Engineering | Academic Seminar & Presentations |
 | 2018.08  | Exchange | [University of Toronto](https://www.utoronto.ca), <br> [University of Ottawa](https://www.uottawa.ca/en) | Transportation Engineering | Academic Seminar & Presentations |
 | 2014.01-2014.02  | Exchange | [York University](https://www.york.ac.uk) | Civil Engineering | Academic & Culture Lectures |
