@@ -6,6 +6,12 @@ author_profile: true
 
 Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University.
 
+### Academic activities
+
+* 2019.09- , Reviewer of TRB (Transportation Research Board) Annual Meeting
+* 2020.01- , Reviewer of IEEE ACCESS
+
+
 ### Student activities
 
 * 2020.01-2021.01, Head of the doctoral advisory group
