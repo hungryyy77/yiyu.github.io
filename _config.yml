@@ -83,19 +83,18 @@ author:
   name             : "Dr. Yi Yu"
   avatar           : "YU.png"
   bio              : |
-    
-    It is better to light a candel <br>
-    than to curse the darkness.
-    <br>
-    <br>
     PhD candidate <br>
     Transportation Engineering <br>
     Zhejiang University & <br>
     Imperial College London <br>
     <br>
-    818 Yuhangtang Rd. <br>
-    Xihu district, Hangzhou<br>
-    Zhejiang, China <br>
+    # 818 Yuhangtang Rd. <br>
+    # Xihu district, Hangzhou<br>
+    # Zhejiang, China <br>
+    <br>
+    It is better to light a candel <br>
+    than to curse the darkness.
+    <br>
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
