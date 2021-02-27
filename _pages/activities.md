@@ -10,6 +10,7 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 
 * 2019.09- , Reviewer of TRB (Transportation Research Board) Annual Meeting
 * 2020.01- , Reviewer of IEEE ACCESS
+* 2020.12- , Member of ICE (Institution of Civil Engineering in UK)
 
 
 ### Student activities
