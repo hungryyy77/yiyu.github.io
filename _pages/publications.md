@@ -54,6 +54,7 @@ Patents
 * He C, Wang D, Cai Z, Zeng J, Yu Y, Jing S (2021) License plate matching method based on maximum travel time probability.
 <!-- 基于行程时间概率最大的车牌匹配方法 -->
 
+* Lv C, Xu B, Zhang H, Yu Y, Li K, Cheng Y (2016) Power generation device based on cantilever beam vibration p in the tunnel wind environment. Certificate Number：ZL20160110190.7
 
 Software
 ======
