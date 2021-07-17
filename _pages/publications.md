@@ -21,7 +21,7 @@ Journal Publications
 
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
 
-* Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, under review.
+* Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, accept.
 
 * Zeng J, Wang D, Zhang Z, Yu Y, Hu Y, Cai Z (2021) A Passenger-to-Car Assignment Optimization Model for high-speed railway with risk of COVID-19 transmission consideration. Journal of Advanced Transportation, under review.
 
