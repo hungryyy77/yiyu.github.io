@@ -39,4 +39,4 @@ Selected Publications
 ======
 * Y. Yu, M. Chen, H. Qi, and D. Wang, [Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover](https://ieeexplore.ieee.org/abstract/document/8976161/) in IEEE Access, vol. 8, pp. 32850-32861, 2020.
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
-* Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, under review.
+* Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, accept.
