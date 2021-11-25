@@ -43,11 +43,11 @@ Selected Publications
 
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
 
-* Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, accept.
+* Cui Y, Yu Y, Cai Z, et al. Optimizing road network density considering automobile traffic efficiency: theoretical approach. Journal of Urban Planning and Development, 2022, 148(1): 04021062. DOI:10.1061/(ASCE)UP.1943-5444.0000780.
 
 * Zeng J, Wang D, Zhang Z, Yu Y, Hu Y, Cai Z (2021) A Passenger-to-Car Assignment Optimization Model for high-speed railway with risk of COVID-19 transmission consideration. Journal of Advanced Transportation, under review.
 
-* Cui Y, Yu Y, Wang D （2021） Analysis of Link Length’s Impact on the Delay of Two-way Signal Coordination。 IEEE Access, accept.
+* Cui Y, Yu Y, Wang D. Impact of the link length on the delay in two-way signal coordination. IEEE Access, 2021, 9: 130823–130833. DOI:10.1109/ACCESS.2021.3113695.
 
 * Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
 
