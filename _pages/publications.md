@@ -21,6 +21,8 @@ Journal Publications
 
 * Qi H, Yu Y, Tang Q, Hu X (2021) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. Transportmetrica B, accept. 
 
+* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
+
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
 
 * Cui Y, Yu Y, Wang D, Cai Z (2021) Does a denser road network operate better? A theoretical analysis based on traffic efficiency. Journal of Urban Planning and Development, accept.
