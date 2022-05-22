@@ -11,6 +11,7 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 * 2019.09- , Reviewer of TRB (Transportation Research Board) Annual Meeting
 * 2020.01- , Reviewer of IEEE ACCESS
 * 2020.12- , Member of [ICE](https://ice.org.uk) (Institution of Civil Engineering in UK)
+* 2021.09-2021.12, GTA of class "Traffic Engineering" in Imperial College London.
 
 ### Academic meetings
 * 2021.03 , [AI UK](https://www.turing.ac.uk/ai-uk), an online event hosted by the Turing to showcase the very best of UK academic work in artificial intelligence (AI); bringing together leading thinkers, innovative businesses and specialist third sector bodies.

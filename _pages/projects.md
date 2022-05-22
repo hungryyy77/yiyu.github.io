@@ -14,7 +14,7 @@ Projects I attended during my bachelor and doctoral periods @ Zhejiang Universit
 
 | Period | Title | Sponsor | Funding | Role |
 | :-----| :----- | :----- | :----- |
-| 2018- | [Hangzhou City Brain](https://hzcitybrain.hangzhou.gov.cn/#/) - [ITS in Xiaoshan District](http://www.xiaoshan.gov.cn/art/2019/6/5/art_1302903_34474561.html) <!-- [杭州城市大脑](https://kaimaoge.github.io/) (杭州城市大脑-萧山区交通小脑-开发 '城市交通态势分析与预测系统' ） --> | Hangzhou Government | ￥4,500,000 | Main member in charge of Traffic State Identification & Safety Status Model |
+| 2018.09-2021.05 | [Hangzhou City Brain](https://hzcitybrain.hangzhou.gov.cn/#/) - [ITS in Xiaoshan District](http://www.xiaoshan.gov.cn/art/2019/6/5/art_1302903_34474561.html) <!-- [杭州城市大脑](https://kaimaoge.github.io/) (杭州城市大脑-萧山区交通小脑-开发 '城市交通态势分析与预测系统' ） --> | Hangzhou Government | ￥4,500,000 | Main member in charge of Traffic State Identification & Safety Status Model |
 | 2022.01-2026.12 | Urban traffic intrinsic acquisition and demand structure optimization
 control based on big data <!-- 基于大数据的城市交通本征获取与需求结构优化控制 --> | National Natural Science Foundation of China (No.Unknown) | ￥3,090,000 | Main member |
 | 2021.01-2024.12 | Urban Traffic Intrinsic Characteristics Acquisition Based on Multi-source Heterogeneous Big Data <!-- 基于多源异构大数据的城市交通本征获取 --> | National Natural Science Foundation of China (No.52072340) | ￥648,000 | Main member |
@@ -28,7 +28,7 @@ control based on big data <!-- 基于大数据的城市交通本征获取与需�
 
 | Period | Title | University | Sponsor | Role |
 | :-----| :----- | :----- |
-| 2020.12- | Joint Traning PhD Program | Imperial College London | [Chinese Government Scholarship council](https://www.csc.edu.cn) | Research collaborations, Academic seminars, Presentations  |
+| 2020.12--2022.05 | Joint Traning PhD Program | Imperial College London | [Chinese Government Scholarship council](https://www.csc.edu.cn) | Research collaborations, Academic seminars, Presentations  |
 | 2019.08 | Go Global | University of Tokyo, Waseda University | Zhejiang University | Academic Seminar & Presentation|
 | 2018.08  | Go Global | University of Toronto, University of Ottawa, Western University, Queens Unversity | Zhejiang University | Academic Seminar & Presentation|
 
