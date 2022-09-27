@@ -36,13 +36,13 @@ Research Interests
 
 Selected Publications
 ======
-* Qi H, Yu Y, Tang Q, Hu X (2021) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET, accept. 
-
-* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
+* Qi H, Yu Y, Tang Q, Hu X (2022) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET, accept. 
 
 * Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
 
 * Cui, Y., Yu, Y., Cai, Z., Wang, D., 2022. Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. J. Urban Plann. Dev. 148, 04021062. https://doi.org/10.1061/(ASCE)UP.1943-5444.0000780
+
+* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
 
 * Zeng, J., Wang, D., Zhang, G., Yu, Y., Cai, Z., 2021. Passenger-to-Car Assignment Optimization Model for High-Speed Railway with Risk of COVID-19 Transmission Consideration. Mathematical Problems in Engineering 2021, e7121010. https://doi.org/10.1155/2021/7121010
 
