@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YI YU - Homepage"
 title_separator          : "-"
 name                     : &name "YI YU"
-description              : &description "Ph.D. candidate"
+description              : &description "Ph.D."
 url                      : https://eveyuyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eveyuyi/eveyuyi.github.io"
@@ -83,16 +83,16 @@ author:
   name             : "Dr. Yi Yu"
   avatar           : "YU.png"
   bio              : |
-    PhD candidate <br>
-    Transportation Engineering <br>
-    Zhejiang University & <br>
-    Imperial College London <br>
+    PhD <br>
+    Urban Computing Center <br>
+    Shanghai Artificial Intelligence Lab<br>
     <br>
-    818 Yuhangtang Rd. <br>
-    Xihu district, Hangzhou<br>
-    Zhejiang, China <br>
     <br>
-  location         : "Hangzhou, China"
+    Xuhui District <br>
+    Shanghai, China<br>
+    <br>
+    <br>
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl"
