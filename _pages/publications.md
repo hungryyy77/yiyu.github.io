@@ -19,11 +19,15 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ======
 
-* Qi H, Yu Y, Tang Q, Hu X (2021) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. Transportmetrica B, accept. 
+* Wang H, Zang J, Yu Y, Zhao L , Li K , Ma H , Qi X, Wang J , Wang Y , Lin Y, Xx L, Shen L, Li H, Wang FY, (2023) Parallel Operating Rooms: A New Model of Perioperative Nursing Process and Smart Surgical Platform Management. Pattern Recognition and Artificial Intelligence, 36, 867–876. 10.16451/j.cnki.issn1003-6059.202310001.
 
-* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), accept.
+* Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
 
-* Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
+* Qi, H, Yu, Y, Tang, Q, and Hu, X (2022). Intersection traffic deadlock formation and its probability: A petri net-based modeling approach. IET Intelligent Transport Systems 16, 1342–1363. 10.1049/itr2.12210. 
+
+* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), Journal of Zhejiang University (Engineering Science)
+
+* Yu, Y, Cui, Y, Zeng, J, He, C, and Wang, D (2022). Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. 10.1016/j.physa.2021.126750.
 
 * Cui Y, Yu Y, Cai Z, et al. Optimizing road network density considering automobile traffic efficiency: theoretical approach. Journal of Urban Planning and Development, 2022, 148(1): 04021062. DOI:10.1061/(ASCE)UP.1943-5444.0000780.
 
@@ -33,6 +37,11 @@ Journal Publications
 
 * Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
 
+Conference Publications
+======
+* Yu, Y., Yao, S., Wang, K., Chen, Y., Wang, F.-Y., and Lin, Y. (2023). Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 3186–3191. 10.1109/SMC53992.2023.10394360.
+* Yu, Y., Yao, S., Li, J., Wang, F.-Y., and Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900–2906. 10.1109/SMC53992.2023.10394049.
+* Lv, X., Yu, Y., Xie, X., Wang, F.-Y., Lin, Y., and Chen, Y. (2023). Optimize the Accessibility of Healthcare Facilities via ACP-Based Approach. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 4034–4039. 10.1109/SMC53992.2023.10394054.
 
 
 Patents
