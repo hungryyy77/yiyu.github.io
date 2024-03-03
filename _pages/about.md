@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yi Yu (Eve), an assistant researcher in [Shanghai AI laboratory](https://www.shlab.org.cn/).
-
-My research interests include Intelligent Transportation System, data economics, AI safety.
+I am Yi Yu (Eve), an assistant researcher in [Shanghai AI laboratory](https://www.shlab.org.cn/). My research interests include Intelligent Transportation System, data economics, AI safety.
 
 I obtained my Ph.D. from [Zhejiang University](https://www.zju.edu.cn) (supervised by [Prof. Wang](https://person.zju.edu.cn/0010034#0)) and trained as a joint PhD student at [Imperial College London](https://www.imperial.ac.uk) (supervised by [Prof. Ochieng](http://www.imperial.ac.uk/people/w.ochieng)). I obtained my bachelor's degree major in civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited Imperial College London, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). I have published several articles and participated in a couple of national and municipal research projects and serve as reviewer of IEEE Transactions on Systems, Man and Cybernetics, IEEE Transaction of Intelligent Vehicle, etc.
 
