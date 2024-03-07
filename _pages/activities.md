@@ -7,11 +7,11 @@ author_profile: true
 Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University.
 
 ### Academic activities
-* 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems
-* 2023.09- , Reviewer of IEEE International Conference on Intelligent Transportation Systems
+* 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
+* 2023.09- , Reviewer of IEEE International Conference on Intelligent Transportation Systems (ITSC)
 * 2023.09- , Reviewer of IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-* 2023.01- , Reviewer of IEEE Transaction of Intelligent Vehicle
-* 2019.09- , Reviewer of TRB (Transportation Research Board) Annual Meeting
+* 2023.01- , Reviewer of IEEE Transaction of Intelligent Vehicle (TIV)
+* 2019.09- , Reviewer of Transportation Research Board (TRB) Annual Meeting
 * 2020.01- , Reviewer of IEEE ACCESS
 * 2020.12- , Member of [ICE](https://ice.org.uk) (Institution of Civil Engineering in UK)
 * 2021.09-2021.12, GTA of class "Traffic Engineering" in Imperial College London.
