@@ -8,7 +8,7 @@ Campus activities I attended during my bachelor and doctoral periods @ Zhejiang 
 
 ### Academic activities
 * 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems
-* 2023.09- , Reviewer of International Conference on Intelligent Transportation Systems
+* 2023.09- , Reviewer of IEEE International Conference on Intelligent Transportation Systems
 * 2023.09- , Reviewer of IEEE International Conference on Systems, Man, and Cybernetics (SMC)
 * 2023.01- , Reviewer of IEEE Transaction of Intelligent Vehicle
 * 2019.09- , Reviewer of TRB (Transportation Research Board) Annual Meeting
