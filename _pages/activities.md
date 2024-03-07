@@ -4,7 +4,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University.
+Campus activities I attended during my bachelor and doctoral periods @ Zhejiang University, and during my work @ Shanghai AI Lab.
 
 ### Academic activities
 * 2023.09- , Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
