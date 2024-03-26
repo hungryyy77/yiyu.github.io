@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/). My research interests include Intelligent Transportation System, AI Safety, Data Economics, and the development of AI agents.
+I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/). My research interests include Intelligent Transportation Systems, AI Safety, Data Economics, and the development of AI agents.
 
  I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). From 2020 to 2022, I was a visiting scholar at Imperial College London, where I collaborated closely [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng). I obtained my bachelor's degree major in civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited Imperial College London, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). I have published several articles and participated in a couple of national and municipal research projects and serve as reviewer of IEEE Transactions on Systems, Man and Cybernetics, IEEE Transaction of Intelligent Vehicle, etc.
 
@@ -39,6 +39,8 @@ Research Interests
 
 Selected Publications
 ======
+* * Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
+
 * Qi H, Yu Y, Tang Q, Hu X (2022) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET, accept. 
 
 * Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
