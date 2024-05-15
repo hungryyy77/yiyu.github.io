@@ -13,6 +13,7 @@ author_profile: true
 * CET-4 575
 
 ### Coding skills
+* Python, SQL, Matlab
 
 * Certification in COURSERA
 	* [Introduction to Artificial Intelligence (AI)](https://eveyuyi.github.io/files/ARCHIEVE_Coursera_Certification_AI_2020.pdf)
@@ -21,10 +22,14 @@ author_profile: true
 	* Certification of Level 1 
 	* Certification of Level 2 
 
-* Python, SQL, Matlab
+### Academic skills
+* Teaching, Project Managements
+* Academic publishing, Review Articles, White Papers, Literature Reviews, Research Proposal
+* Software Development, Algorithm Development, Deep Learning, Reinforcement Learning, Machine Learning, Predictive Analytics, Data Visualization, Social Science 
 
 ### Softwares
-* TransCAD, VISSIM
+* TransCAD, VISSIM, SUMO
+* High Performance Computing (HPC)
 * CAD, Revit, Sketch Up
 * Photoshop
 
