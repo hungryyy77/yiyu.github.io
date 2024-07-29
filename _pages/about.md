@@ -47,9 +47,9 @@ Research Interests
 
 Selected Publications
 ======
-* * Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
+* Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
 
-* Qi H, Yu Y, Tang Q, Hu X (2022) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET, accept. 
+* Qi H, Yu Y, Tang Q, Hu X (2022) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. IET Intelligent Transport Systems, accept. 
 
 * Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
 
