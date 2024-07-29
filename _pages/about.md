@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/). My research interests include Intelligent Transportation Systems, AI Safety, Data Economics, and the development of AI agents.
+I am Dr. Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
- I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp). From 2020 to 2022, I was a visiting scholar at Imperial College London, where I collaborated closely [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng). I obtained my bachelor's degree major in civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited Imperial College London, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). I have published several articles and participated in a couple of national and municipal research projects and serve as reviewer of IEEE Transactions on Systems, Man and Cybernetics, IEEE Transaction of Intelligent Vehicle, etc.
+Research Interests
+ My research interests spans Intelligent Transportation Systems, AI Safety, Data Economics, and the development of AI agents. I am particularly passionate about:
+- Exploring the societal impacts of AI in intelligent systems
+- Optimizing intelligent systems via advanced AI techniques
+- Developing AI-driven simulation platforms
 
-As a curious and passionate learner, I also cover knowledge of various areas, such as law, computer science, economics, social science, etc. During my spare time, I actively involved in academic activities and volunteerings. I hope the world could become slightly better owning to my contribution. I'm also a geek, fascinated productivity tools like Python, SQL, ArcGIS, Notion, Matlab, Photoshop, CAD...
+ I received my PhD from Zhejiang University, where I worked under the supervision of [Prof. Dianhai Wang](http://iits.zju.edu.cn/international/2018/0816/c21523a847061/page.psp).  My doctoral research focused on developing comprehensive urban traffic state evaluation systems, which have been successfully applied in real-world projects. From 2020 to 2022, I was working at Imperial College London as a visiting scholar, where I collaborated closely [Prof. Washington Ochieng](http://www.imperial.ac.uk/people/w.ochieng), FREng. I obtained my bachelor's degree major in Civil Engineering and minor in Law from [Zhejiang University](https://www.zju.edu.cn) in 2017. My academic journey has been enriched by international experiences at institutions including [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), [Waseda University](https://www.waseda.jp/top/), [University of Toronto](https://www.utoronto.ca), [University of Ottawa](https://www.uottawa.ca/en), [Western University](https://www.uwo.ca), [Queens Unversity](https://www.queensu.ca), [York University](https://www.york.ac.uk). 
+ 
+ 
+ My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 16 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
+As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto is: “It is better to light a candle than to curse the darkness.”
 
 
 Education
