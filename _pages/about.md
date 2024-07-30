@@ -10,7 +10,6 @@ redirect_from:
 
 I am Dr. Yi Yu (Eve), a Young Researcher at [Shanghai AI laboratory](https://www.shlab.org.cn/) specializing in the intersection of Artificial Intelligence and Intelligent Transportation Systems. My passion lies at leveraging cutting-edge AI technologies to solve complex urban mobility challenges and ensure the safe, efficient development of smart cities.
 
-Research Interests
  My research interests spans Intelligent Transportation Systems, AI Safety, Data Economics, and the development of AI agents. I am particularly passionate about:
 - Exploring the societal impacts of AI in intelligent systems
 - Optimizing intelligent systems via advanced AI techniques
@@ -21,7 +20,7 @@ Research Interests
  
  My interdisciplinary background allows me to approach transportation challenges from multiple perspectives, fostering innovative solutions that consider technological, legal, and societal implications. I have authored over 16 peer-reviewed publications in journals and conferences, as well as actively contributed to national and municipal research projects. Additionally, I am passionate about contributing to the academic community and fostering the next generation of researchers, actively serve as a reviewer for journals and conferences such as IEEE Transactions on Systems, Man and Cybernetics.
 
-As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto is: “It is better to light a candle than to curse the darkness.”
+As a researcher, I am committed to developing AI technologies that not only advance the field of Intelligent Transportation Systems but also contribute positively to society. I strive to create solutions that enhance urban mobility, promote sustainability, and ensure equitable access to the benefits of smart city innovations. My life motto: “It is better to light a candle than to curse the darkness.”
 
 
 Education
